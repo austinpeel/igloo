@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/igloo/static/css/main.073c9b0a.css",
+    "main.js": "/igloo/static/js/main.d5d31e90.js",
+    "static/js/787.07fdfb84.chunk.js": "/igloo/static/js/787.07fdfb84.chunk.js",
+    "static/media/logo.svg": "/igloo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/igloo/index.html",
+    "main.073c9b0a.css.map": "/igloo/static/css/main.073c9b0a.css.map",
+    "main.d5d31e90.js.map": "/igloo/static/js/main.d5d31e90.js.map",
+    "787.07fdfb84.chunk.js.map": "/igloo/static/js/787.07fdfb84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d5d31e90.js"
+  ]
+}
