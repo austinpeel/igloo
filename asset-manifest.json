@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/igloo/static/css/main.ca57846c.css",
-    "main.js": "/igloo/static/js/main.5b125e12.js",
+    "main.css": "/igloo/static/css/main.3c3963fc.css",
+    "main.js": "/igloo/static/js/main.ab16a8bc.js",
     "static/js/787.07fdfb84.chunk.js": "/igloo/static/js/787.07fdfb84.chunk.js",
     "index.html": "/igloo/index.html",
-    "main.ca57846c.css.map": "/igloo/static/css/main.ca57846c.css.map",
-    "main.5b125e12.js.map": "/igloo/static/js/main.5b125e12.js.map",
+    "main.3c3963fc.css.map": "/igloo/static/css/main.3c3963fc.css.map",
+    "main.ab16a8bc.js.map": "/igloo/static/js/main.ab16a8bc.js.map",
     "787.07fdfb84.chunk.js.map": "/igloo/static/js/787.07fdfb84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca57846c.css",
-    "static/js/main.5b125e12.js"
+    "static/css/main.3c3963fc.css",
+    "static/js/main.ab16a8bc.js"
   ]
 }
