@@ -1,0 +1,18 @@
+.input-field {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5px;
+  /* background-color: azure; */
+}
+
+.input-field label {
+  padding-right: 10px;
+  background-color: bisque;
+}
+
+.input-field input {
+  padding: 5px;
+  width: 40px;
+  background-color: aquamarine;
+}

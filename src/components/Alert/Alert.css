@@ -1,0 +1,10 @@
+.alert-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    color: white;
+    font-weight: 600;
+    background-color: red;
+}
