@@ -127,6 +127,7 @@ export default function SourcePlane() {
   return (
     <div className='plane-container'>
       <div className='model-parameters'>
+        <p>Source</p>
         <ModelParameter
           id='sersicRadius'
           text='R Sersic'

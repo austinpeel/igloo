@@ -7,7 +7,8 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #dedede;
+  background-color: #f1f2f7;
+  /* background-color: white; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -29,6 +30,7 @@
   font-size: 3rem;
   border: none;
   opacity: 95%;
+  background-color: #f1f2f7;
 }
 
 .unity-player button:hover {

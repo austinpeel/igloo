@@ -116,6 +116,7 @@ const LensPlane = () => {
   return (
     <div className='plane-container'>
       <div className='model-parameters'>
+        <p>Lens</p>
         <ModelParameter
           id='thetaE'
           text='Theta E'

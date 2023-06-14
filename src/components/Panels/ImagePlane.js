@@ -7,6 +7,7 @@ export default function ImagePlane() {
   // Access parameter context
   const { sourceParams, lensParams } = useContext(ParamContext);
 
+  // Combine parameters into one object
   const params = {
     thetaE: lensParams.thetaE,
     lensQ: lensParams.axisRatio,

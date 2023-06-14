@@ -6,7 +6,7 @@
   align-items: center;
   justify-content: space-between;
   margin: 10px auto;
-  background-color: lightblue;
+  /* background-color: lightblue; */
 }
 
 .model-parameters {
@@ -14,5 +14,15 @@
   flex-direction: column;
   width: 180px;
   padding: 5px;
-  background-color: lavender;
+  /* background-color: lavender; */
+}
+
+.model-parameters p {
+  font-weight: 700;
+  font-size: 1.5rem;
+  text-align: center;
+  width: 100%;
+  padding: 6px 0px;
+  background-color: #f1f2f7;
+  border-radius: 20px;
 }
